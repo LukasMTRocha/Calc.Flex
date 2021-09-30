@@ -1,4 +1,5 @@
-//*Se o valor do etanol custar até 70% do valor da gasolina, o valor do etanol será mais vantajoso.\\*
+
+// codigo Lukas Rocha
 
 let etanol, gasolina;
 function calcular() {
